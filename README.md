@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mariakhae44
 - 👀 I’m interested in getting started in the Tech Industry as a Data Analyst!
-- 🌱 I’m currently learning Structured Query Language (SQL) in SQLite then applying that to my company's choice of RDBMS.
+- 🌱 I’m currently learning Structured Query Language (SQL) and the Git workflow
 - 🎾 In my free time, I like to play tennis, go to the gym, go to the dog park with my pup, Zuko, and find any excuse to go to the beach :) 
 - 📫 Reach me at khaelabarleta@gmail.com
 
